@@ -1,0 +1,23 @@
+{
+  "name": "NotifyTest",
+  "version": "1.0.0",
+  "description": "Notification Test",
+  "main": "index.js",
+  "author": "Jason Antman <jason@jasonantman.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://jantman-personal-public.s3-website-us-east-1.amazonaws.com/notificationtest.html",
+    "serviceName": "NotifyTest",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
